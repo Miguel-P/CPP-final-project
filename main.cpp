@@ -1,4 +1,4 @@
- ///EEE2039G Assignment 2016 - eLog
+ ///EEE2039W Module G Assignment 2016 - eLog
 
  ///STUDENT NAME: Miguel Pereira , PRRMIG001 */
 
