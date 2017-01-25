@@ -17,5 +17,8 @@ terminated by a newline character. It needs to support the following functions:
 
 6) Save newly added entries to the CSV file
 
-The project outline also showed an example of how the user should be able to interact with each function on the console.
+The project outline also showed an example of how the user should be able to interact with each function on the console:
+
+![alt tag](https://raw.githubusercontent.com/Miguel-P/CPP-final-project/master/Console%20example.png)
+
 
