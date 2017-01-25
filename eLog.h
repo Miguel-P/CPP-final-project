@@ -45,10 +45,6 @@ class eLog {
   int deleteFunc (int deleteNum, const char* filename) ;
 
 private:
-    struct NewEntries{
-        int priority1[100] ;
-        string notes1[50] ;
-    };
     ElogEntry logentries[20] ;
     int nlogs ;
     int isEmpty ;
