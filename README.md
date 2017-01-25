@@ -27,4 +27,5 @@ This is a side by side image of what the Add Entries and Listing All Entries fun
 ![alt tag](https://raw.githubusercontent.com/Miguel-P/CPP-final-project/README-edit/Console%20example%20List%20and%20Add%20functions.png)
 
 
-I received 88% for the project. Most of the marks were lost due to poor commenting and an untidy flowchart. 
+I received 88% for the project. Most of the marks were lost due to poor commenting and an untidy flowchart. There are some definite bugs 
+and there should also be more code to catch exceptions and recover gracefully in the main.cpp 
