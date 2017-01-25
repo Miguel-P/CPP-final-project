@@ -17,5 +17,15 @@ terminated by a newline character. It needs to support the following functions:
 
 6) Save newly added entries to the CSV file
 
-The project outline also showed an example of how the user should be able to interact with each function on the console.
+This is what the program looks like on the console:
 
+![alt tag](https://raw.githubusercontent.com/Miguel-P/CPP-final-project/master/Console%20example.png)
+
+
+This is a side by side image of what the Add Entries and Listing All Entries function looks like:
+
+![alt tag](https://raw.githubusercontent.com/Miguel-P/CPP-final-project/README-edit/Console%20example%20List%20and%20Add%20functions.png)
+
+
+I received 88% for the project. Most of the marks were lost due to poor commenting and an untidy flowchart. There are some definite bugs 
+and there should also be more code to catch exceptions and recover gracefully in the main.cpp 
