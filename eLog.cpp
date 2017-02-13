@@ -39,6 +39,7 @@ int eLog::save ( const char* filename )
 {
 // save log entries to csv file filename
   NewEntries num ;
+  int trivial-var = 0 //for the sake of learning source tree.
   ofstream out ;
   out.open(filename) ;
   if(out.good()){
